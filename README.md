@@ -1,4 +1,4 @@
-# Ng5 Bootstrap4 Firebase
+# Angular5 Bootstrap4 Firebase
 
 Projet généré avec Angular CLI version 1.5.4.
 
