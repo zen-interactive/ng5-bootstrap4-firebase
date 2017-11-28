@@ -22,3 +22,16 @@ Pour que bootstrap fonctionne il faut ajouter la librairie de cette façon :
 Pour construire le build
 
 > npm run build ou ng build
+
+Ajout du style Bootstrap
+
+> dans le fichier styles.css à la racine du projet
+
+Configurer Firebase
+
+> ajout dans environment et environment.prod la config de connexion
+
+Modification de app.module.ts
+
+> import de Firebase et NgbModule de Bootstrap
+
