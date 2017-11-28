@@ -11,10 +11,6 @@ Projet généré avec Angular CLI version 1.5.4.
 
 ## Informations
 
-Au moment de la création du framework angular ajouter des flags :
-
-> ng new nomdossier --style=scss --routing
-
 Pour que bootstrap fonctionne il faut ajouter la librairie de cette façon :
 
 > npm i -S bootstrap@next
